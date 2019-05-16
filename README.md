@@ -1,2 +1,4 @@
 # hello-world
-sample repository
+Hi everyone
+
+sample lang nmn ito
